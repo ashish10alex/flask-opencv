@@ -2,5 +2,5 @@
 Display opencv video on your flask app.
 
 
-!(image)[https://static01.bbi.io/2Wt9Tk.gif]
++<img src="/art/sample.gif?raw=true" width="200px">
 
