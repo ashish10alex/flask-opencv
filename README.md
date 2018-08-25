@@ -1,6 +1,11 @@
 # flask-opencv
 Display opencv video on your flask app.
 
+__dependencies__ -
+Flask - pip install flask
+Python3
+Opencv - pip install opencv-python
+
 ## Input via a video file
 
 `python3 app.py --video filename.mp4`
