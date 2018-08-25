@@ -12,7 +12,7 @@ Display opencv video on your flask app.
 
 ![from-video](https://github.com/ashish10alex/flask-opencv/blob/master/images/webcam.gif)
 
-__dependencies__ -
+__Dependencies__ -
 
 Flask \
 Python3 \
