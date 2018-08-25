@@ -1,5 +1,14 @@
 # flask-opencv
 Display opencv video on your flask app.
 
-![serial Implementation](https://github.com/ashish10alex/openmp-jacobi/blob/master/images/Serial_graph.PNG)
+## Input via a video file
+
+`python3 app.py --video filename.mp4`
+
+![from-video](https://github.com/ashish10alex/flask-opencv/blob/master/images/from_video.gif)
+
+## Input from your webcam
+`python3 app.py --video web-cam`
+
+![from-video](https://github.com/ashish10alex/flask-opencv/blob/master/images/webcam.gif)
 
