@@ -2,4 +2,5 @@
 Display opencv video on your flask app.
 
 
-![alt](https://github.com/ashish10alex/flask-opencv/tree/master/images/webcam.gif)
+![An open source player](http://i.imgur.com/dNYswmI.gif)
+
